@@ -1,1 +1,1 @@
-responvise web page in which intercative navigation takes place
+stopwatch web page using html, css and javascript
